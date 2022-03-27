@@ -37,10 +37,10 @@ H4k20me1 |wgEncodeBroadHistoneA549H4k20me1Etoh02AlnRep1.bam
 
 Состояние | Наиболее частые модификации | Предполагаемое биологическое обозначение  
 ---- | ---- | ----  
-1 | H3k04me3, H3k27ac, H3k04me2, H2az |
-2 | H3k04me3, H3k04me2, H3k04me1 |
-3 | H3k04me1 |
-4 | H3k04me2, H3k04me1, H3k79me2 |
+1 | H3k04me3, H3k27ac, H3k04me2, H2az | 
+2 | H3k04me3, H3k04me2, H3k04me1, H2az | 
+3 | H3k04me1 | 
+4 | H3k04me2, H3k04me1, H3k79me2 | 
 5 | H3k79me2 |
 6 | H3k79me2, H3k36me3 |
 7 | H3k36me3 |
