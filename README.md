@@ -17,4 +17,4 @@ H3k36me3 | wgEncodeBroadHistoneA549H3k36me3Etoh02AlnRep1.bam
 H3k79me2 |wgEncodeBroadHistoneA549H3k79me2Etoh02AlnRep1.bam
 H4k20me1 |wgEncodeBroadHistoneA549H4k20me1Etoh02AlnRep1.bam  
 
-wgEncodeBroadHistoneA549ControlEtoh02AlnRep1.bam
+Файл контрольного эксперимента - wgEncodeBroadHistoneA549ControlEtoh02AlnRep1.bam
