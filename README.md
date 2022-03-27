@@ -28,3 +28,5 @@ H4k20me1 |wgEncodeBroadHistoneA549H4k20me1Etoh02AlnRep1.bam
 ![](DATA/LearnMod/transitions_10.png)  
 
 ![](DATA/LearnMod/emissions_10.png) 
+# 4. Анализ полученных состояний в Genome Browser  
+![](DATA/Screenshot at Mar 27 18-44-02.png)
