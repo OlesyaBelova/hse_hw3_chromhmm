@@ -19,3 +19,4 @@ H4k20me1 |wgEncodeBroadHistoneA549H4k20me1Etoh02AlnRep1.bam
 
 Файл контрольного эксперимента - wgEncodeBroadHistoneA549ControlEtoh02AlnRep1.bam
 # 3. Выдача ChromHMM  
+![](DATA/LearnMod/A594_10_RefSeqTES_neighborhood.png)
