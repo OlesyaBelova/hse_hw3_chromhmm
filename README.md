@@ -30,5 +30,20 @@ H4k20me1 |wgEncodeBroadHistoneA549H4k20me1Etoh02AlnRep1.bam
 ![](DATA/LearnMod/emissions_10.png) 
 # 4. Анализ полученных состояний в Genome Browser  
 ![](DATA/Screenshot1.png)  
+
 ![](DATA/Screenshot2.png)  
+
 ![](DATA/Screenshot3.png)  
+
+Состояние | Наиболее частые модификации | Предполагаемое биологическое обозначение  
+---- | ---- | ----  
+1 | H3k04me3, H3k27ac, H3k04me2, H2az |
+2 | H3k04me3, H3k04me2, H3k04me1 |
+3 | H3k04me1 |
+4 | H3k04me2, H3k04me1, H3k79me2 |
+5 | H3k79me2 |
+6 | H3k79me2, H3k36me3 |
+7 | H3k36me3 |
+8 | H3k04me1, H3k27me3 |
+9 | H3k27me3 |
+10 | CTCF, H3k27me3 |
