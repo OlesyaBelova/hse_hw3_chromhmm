@@ -29,6 +29,6 @@ H4k20me1 |wgEncodeBroadHistoneA549H4k20me1Etoh02AlnRep1.bam
 
 ![](DATA/LearnMod/emissions_10.png) 
 # 4. Анализ полученных состояний в Genome Browser  
-![](DATA/Screenshot at Mar 27 18-44-02.png)  
-![](DATA/Screenshot at Mar 27 18-46-56.png)  
-![](DATA/Screenshot at Mar 27 18-45-14.png)  
+![](DATA/Screenshot1.png)  
+![](DATA/Screenshot2.png)  
+![](DATA/Screenshot3.png)  
